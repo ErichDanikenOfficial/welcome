@@ -1,0 +1,24 @@
+{
+    "name": "welcome",
+    "version": "1.0.0",
+    "description": "A som\b\bimple web page.",
+    "main": "index.html",
+    "scripts": {
+        "start": "npm run lite",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lite": "lite-server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dinesh-md/welcome.git"
+    },
+    "author": "Dinesh",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/dinesh-md/welcome/issues"
+    },
+    "homepage": "https://github.com/dinesh-md/welcome#readme",
+    "devDependencies": {
+        "lite-server": "^2.5.4"
+    }
+}
